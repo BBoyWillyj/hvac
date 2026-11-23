@@ -1,0 +1,69 @@
+- generic [active] [ref=f2e1]:
+  - banner [ref=f2e2]:
+    - link "SEO Mustapha Digital Services home" [ref=f2e3] [cursor=pointer]:
+      - /url: "#top"
+      - img "SEO Mustapha — Connecting People, Properties and Products Digitally" [ref=f2e4]
+    - generic [ref=f2e5]: FREE DOWNLOAD | For HVAC businesses
+  - main [ref=f2e6]:
+    - region "Is your HVAC business visible on Google? Find out." [ref=f2e7]:
+      - generic [ref=f2e8]:
+        - generic [ref=f2e9]:
+          - generic [ref=f2e10]: YOUR FREE PRACTICAL FIELD GUIDE
+          - img "Cover of The HVAC Google Visibility Checklist, a practical field guide from SEO Mustapha Digital Services" [ref=f2e12]
+          - paragraph [ref=f2e13]: A clear, practical self-audit. No ranking promises.
+        - generic [ref=f2e14]:
+          - generic [ref=f2e15]: HELP LOCAL CUSTOMERS FIND YOU
+          - heading "Is your HVAC business visible on Google? Find out." [level=1] [ref=f2e17]
+          - paragraph [ref=f2e18]: Use this free checklist to spot the gaps in your Google presence, strengthen the essentials, and make it easier for nearby customers to find and contact your HVAC business.
+          - list [ref=f2e19]:
+            - listitem [ref=f2e20]:
+              - generic [ref=f2e22]: Check your Google Business Profile setup, categories, and services.
+            - listitem [ref=f2e23]:
+              - generic [ref=f2e25]: Review your photos, customer reviews, and service areas.
+            - listitem [ref=f2e26]:
+              - generic [ref=f2e28]: See how your website and contact details help turn searches into enquiries.
+          - generic [ref=f2e29]:
+            - heading "Get the free checklist" [level=2] [ref=f2e30]
+            - paragraph [ref=f2e31]: Enter your details below and we’ll send the practical guide straight to your inbox.
+            - generic [ref=f2e37]:
+              - generic [ref=f2e38]:
+                - textbox "name" [ref=f2e41]:
+                  - /placeholder: Name
+                - textbox "email" [ref=f2e44]:
+                  - /placeholder: Email
+              - button "Subscribe" [ref=f2e46] [cursor=pointer]
+            - paragraph [ref=f2e47]: Your details are used to send your checklist and relevant updates. Unsubscribe anytime.
+    - region "Know what to fix first." [ref=f2e48]:
+      - generic [ref=f2e49]:
+        - text: A FIVE-PART SELF-AUDIT
+        - heading "Know what to fix first." [level=2] [ref=f2e50]
+        - paragraph [ref=f2e51]: Work through the fundamentals, record your improvement priorities, and revisit your progress. It’s designed for real HVAC businesses and the local customers they serve.
+      - list [ref=f2e52]:
+        - listitem [ref=f2e53]:
+          - generic [ref=f2e54]: "01"
+          - text: Google Business Profile setup
+        - listitem [ref=f2e55]:
+          - generic [ref=f2e56]: "02"
+          - text: Business categories and services
+        - listitem [ref=f2e57]:
+          - generic [ref=f2e58]: "03"
+          - text: Photos and customer reviews
+        - listitem [ref=f2e59]:
+          - generic [ref=f2e60]: "04"
+          - text: Service-area optimization
+        - listitem [ref=f2e61]:
+          - generic [ref=f2e62]: "05"
+          - text: Website and contact information
+        - listitem [ref=f2e63]:
+          - generic [ref=f2e64]: "20"
+          - text: Scorecard to track your foundations
+        - listitem [ref=f2e65]: This checklist is an educational self-audit, not an official Google score or a guarantee of rankings, traffic, or enquiries.
+  - contentinfo [ref=f2e66]:
+    - generic [ref=f2e67]: SEO MUSTAPHA DIGITAL SERVICES
+    - generic [ref=f2e68]:
+      - link "Website" [ref=f2e69] [cursor=pointer]:
+        - /url: https://seomustapha.vercel.app/
+      - link "seomustapha@gmail.com" [ref=f2e70] [cursor=pointer]:
+        - /url: mailto:seomustapha@gmail.com
+      - 'link "WhatsApp: +234 701 443 5689" [ref=f2e71] [cursor=pointer]':
+        - /url: https://wa.me/2347014435689
